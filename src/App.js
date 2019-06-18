@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Testing 3 to see if deployed right
+          Testing now if it updates in github and heroku
         </a>
       </header>
     </div>
